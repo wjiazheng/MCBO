@@ -1,6 +1,6 @@
 # Unsupervised Multimodal 3D Medical Image Registration with Multilevel Correlation Balanced Optimization (MCBO)
 
-Method for MICCAI Learn2Reg 2024 ReMIND2Reg sub-challenge
+Method for MICCAI Learn2Reg 2024 ReMIND2Reg sub-challenge. The goal of the ReMIND2Reg challenge task is to register multi-parametric pre-operative MRI and intra-operative 3D ultrasound images. 
 
 Challenge description: https://learn2reg.grand-challenge.org
 
